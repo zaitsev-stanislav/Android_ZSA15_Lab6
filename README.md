@@ -1,1 +1,5 @@
-# Android_ZSA15_Lab6
+# ZSA15_Lab6
+Работа с базой данных SQLite
+
+![Screenshot](Screenshot.jpg)
+
